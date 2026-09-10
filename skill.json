@@ -1,0 +1,17 @@
+{
+  "name": "genpark-tcp-reno-cubic-dual-stack-engine-skill",
+  "version": "1.0.0",
+  "description": "TCP Reno vs CUBIC dual-stack congestion control engine featuring cubic polynomial window growth, loss epoch calculation, and fast recovery emulation.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "tcp-cubic",
+    "tcp-reno",
+    "congestion-window",
+    "network-protocols",
+    "flow-control"
+  ],
+  "dependencies": []
+}
